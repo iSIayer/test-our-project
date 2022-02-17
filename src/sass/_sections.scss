@@ -1,6 +1,7 @@
 .hero {
   background-color: rgb(140, 0, 255);
   position: relative;
+  max-width: 1600px;
 }
 .paragraph {
   color: teal;
@@ -12,4 +13,5 @@
 .list {
   text-transform: uppercase;
   color: orange;
+  font-size: small;
 }
