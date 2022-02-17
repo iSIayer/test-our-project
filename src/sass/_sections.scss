@@ -1,8 +1,15 @@
 .hero {
   background-color: rgb(140, 0, 255);
+  position: relative;
 }
 .paragraph {
   color: teal;
   font-size: large;
   text-transform: uppercase;
+  text-align: center;
+}
+
+.list {
+  text-transform: uppercase;
+  color: orange;
 }
