@@ -4,7 +4,11 @@ body {
   font-weight: 500;
   font-size: 14px;
   line-height: 1, 76;
-  /* or 25px */
+  background-color: tomato;
+}
 
-  color: red;
+ol,
+ul {
+  padding: 0;
+  margin: 0;
 }
